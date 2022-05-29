@@ -218,10 +218,10 @@
             },
             {
                 "id": "-GlRzTMT11",
-                "url": "https://itab.link",
+                "url": "https://tsuki.icu",
                 "type": "icon",
-                "name": "iTab新标签页",
-                "src": "https://files.codelife.cc/website/itab.svg"
+                "name": "Tsuki主页",
+                "src": "https://p0.meituan.net/csc/bf3dfd1502031920e34a7d6b726aea61903576.png"
             },
             {
                 "id": "k67HgbHCCHn_wvZBHbYR-",
@@ -243,13 +243,6 @@
                 "type": "icon",
                 "name": "添加图标",
                 "src": "https://files.codelife.cc/website/add.svg"
-            },
-            {
-                "id": "0g75JmsYHHPQlYhpKxsBD",
-                "url": "chrome://extensions/",
-                "type": "icon",
-                "name": "扩展管理",
-                "src": "https://files.codelife.cc/website/extensions.svg"
             }
         ]
     },
