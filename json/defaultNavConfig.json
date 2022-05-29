@@ -34,7 +34,7 @@
             },
             {
                 "id": "5yEZm2kln",
-                "url": "https://www.itab.link/web/jd.html",
+                "url": "https://jd.com",
                 "type": "icon",
                 "name": "京东商城",
                 "src": "https://files.codelife.cc/website/jd.svg"
@@ -78,7 +78,7 @@
                 "config": {
                     "name": "恋爱日期",
                     "title": "和她❤️恋爱已经",
-                    "target": "2021-02-28",
+                    "target": "2021-09-17",
                     "repeat": "",
                     "bgColor": "#fff",
                     "textColor": "#eb8197",
@@ -220,8 +220,8 @@
                 "id": "-GlRzTMT11",
                 "url": "https://tsuki.icu",
                 "type": "icon",
-                "name": "Tsuki主页",
-                "src": "https://p0.meituan.net/csc/bf3dfd1502031920e34a7d6b726aea61903576.png"
+                "name": "HOME",
+                "src": ".//icon.svg"
             },
             {
                 "id": "k67HgbHCCHn_wvZBHbYR-",
@@ -243,6 +243,13 @@
                 "type": "icon",
                 "name": "添加图标",
                 "src": "https://files.codelife.cc/website/add.svg"
+            },
+            {
+                "id": "0g75JmsYHHPQlYhpKxsBD",
+                "url": "chrome://extensions/",
+                "type": "icon",
+                "name": "扩展管理",
+                "src": "https://files.codelife.cc/website/extensions.svg"
             }
         ]
     },
@@ -826,7 +833,7 @@
             },
             {
                 "id": "5kGk9TzkRaa",
-                "url": "https://boardos.online?from=itab.link",
+                "url": "https://boardos.online",
                 "type": "icon",
                 "name": "BoardOS",
                 "src": "https://files.codelife.cc/website/boardos.svg"
@@ -1113,7 +1120,7 @@
             },
             {
                 "id": "IC2ssYXhT",
-                "url": "http://www.smzdm.com/?from=itab.link",
+                "url": "http://www.smzdm.com",
                 "type": "icon",
                 "name": "什么值得买",
                 "src": "https://files.codelife.cc/website/smzdm.svg"
