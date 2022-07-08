@@ -26,34 +26,6 @@
                 "id": "gSZZkzSIL"
             },
             {
-                "id": "Mh9M0gUXe6N-TjKfMaGx_",
-                "url": "https://ai.taobao.com?pid=mm_54561194_2536750027_111828300388&union_lens=lensId:PUB@1644727921@21057ef3_09a7_17ef16c69e2_05aa@01",
-                "type": "icon",
-                "name": "爱淘宝",
-                "src": "https://files.codelife.cc/website/taobao.svg"
-            },
-            {
-                "id": "5yEZm2kln",
-                "url": "https://jd.com",
-                "type": "icon",
-                "name": "京东商城",
-                "src": "https://files.codelife.cc/website/jd.svg"
-            },
-            {
-                "id": "5a94d582e753876b29cffb95",
-                "type": "icon",
-                "url": "https://www.tmall.com/",
-                "name": "天猫精选",
-                "src": "https://files.codelife.cc/website/tmall.svg"
-            },
-            {
-                "id": "duzYKi8wvsmT4JMmGOEtG",
-                "name": "FlowUs",
-                "src": "https://files.codelife.cc/website/flowus.svg",
-                "type": "icon",
-                "url": "https://flowus.cn/?promotionChannel=WZ_it_01"
-            },
-            {
                 "name": "倒数日",
                 "component": "daysMatter",
                 "type": "component",
@@ -140,20 +112,6 @@
                 "id": "fu2M-S9yd"
             },
             {
-                "name": "书签管理",
-                "type": "component",
-                "component": "bookmarks",
-                "size": "mini",
-                "id": "ABlIiKONc4F1acq3FZU-S"
-            },
-            {
-                "id": "glN0dLcwF",
-                "url": "https://www.baidu.com/?tn=68018901_2_oem_dg",
-                "type": "icon",
-                "name": "百度",
-                "src": "https://files.codelife.cc/website/baidu.svg"
-            },
-            {
                 "id": "vwLnQvDMr",
                 "url": "http://www.bilibili.com/",
                 "type": "icon",
@@ -211,9 +169,9 @@
             },
             {
                 "id": "5kGk9TzkRam-a",
-                "url": "https://js.design?source=itab&plan=1",
+                "url": "https://imyshare.com/",
                 "type": "icon",
-                "name": "即时设计",
+                "name": "imyshare",
                 "src": "https://files.codelife.cc/website/jsdesign.svg"
             },
             {
@@ -221,14 +179,7 @@
                 "url": "https://tsuki.icu",
                 "type": "icon",
                 "name": "HOME",
-                "src": ".//icon.svg"
-            },
-            {
-                "id": "k67HgbHCCHn_wvZBHbYR-",
-                "url": "chrome://history/",
-                "type": "icon",
-                "name": "历史记录",
-                "src": "https://files.codelife.cc/website/history.svg"
+                "src": "https://files.codelife.cc/website/itab.svg"
             },
             {
                 "id": "GTIzQ7fHwS501SWtM_8H_",
@@ -243,13 +194,6 @@
                 "type": "icon",
                 "name": "添加图标",
                 "src": "https://files.codelife.cc/website/add.svg"
-            },
-            {
-                "id": "0g75JmsYHHPQlYhpKxsBD",
-                "url": "chrome://extensions/",
-                "type": "icon",
-                "name": "扩展管理",
-                "src": "https://files.codelife.cc/website/extensions.svg"
             }
         ]
     },
@@ -833,7 +777,7 @@
             },
             {
                 "id": "5kGk9TzkRaa",
-                "url": "https://boardos.online",
+                "url": "https://boardos.online?from=itab.link",
                 "type": "icon",
                 "name": "BoardOS",
                 "src": "https://files.codelife.cc/website/boardos.svg"
@@ -1120,7 +1064,7 @@
             },
             {
                 "id": "IC2ssYXhT",
-                "url": "http://www.smzdm.com",
+                "url": "http://www.smzdm.com/?from=itab.link",
                 "type": "icon",
                 "name": "什么值得买",
                 "src": "https://files.codelife.cc/website/smzdm.svg"
