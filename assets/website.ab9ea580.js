@@ -1,0 +1,1 @@
+import{b as e}from"./baseRequest.acdd10d1.js";import"./todo.9d8ad3e1.js";import"./index.becf6c0c.js";const t=(t={})=>e.get("/api/website/title",{params:t}),s=(t={})=>e.get("/website/use",{params:t}),a=(t={})=>e.get("/website/list",{params:t}),i=(t={})=>e.get("/website/delIcon",{params:t});export{i as delWebsiteIcon,a as getWebsiteList,t as websiteTitle,s as websiteUse};

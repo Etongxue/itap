@@ -1,1 +1,0 @@
-import{cm as a,cG as s,cq as e,cb as c}from"./save_config.7e387697.js";import{m as o}from"./main.5f87c81f.js";import{c as i}from"./cloneDeep.3e2686af.js";const m=a();var f=a=>{let f=m.value.find((a=>a.id==o.value)).children||[];a.id=s(),f.push(i(a)),e("navConfig"),c.success(`添加【${a.name}】成功`)};export{f as a};

@@ -1,0 +1,1 @@
+import{bE as a,bs as t}from"./todo.9d8ad3e1.js";import{g as e}from"./itab.faa0f5ac.js";import"./baseRequest.acdd10d1.js";import"./index.becf6c0c.js";var f=async()=>{let f=await a.get("defaultNavConfig",!1);if(!f)try{f=(await e()).data||[]}catch(i){f=(await t((()=>import("./defaultNavConfig.2554cbfb.js")),[])).default}return f};export{f as default};

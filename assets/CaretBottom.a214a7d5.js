@@ -1,0 +1,1 @@
+import{a4 as t,ay as a,U as o,a2 as e}from"./todo.9d8ad3e1.js";var r=t({name:"CaretBottom"});const s={xmlns:"http://www.w3.org/2000/svg",viewBox:"0 0 1024 1024"},n=e("path",{fill:"currentColor",d:"m192 384 320 384 320-384z"},null,-1);r.render=function(t,e,r,l,m,d){return a(),o("svg",s,[n])},r.__file="packages/components/CaretBottom.vue";export{r as default};

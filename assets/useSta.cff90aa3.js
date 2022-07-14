@@ -1,0 +1,1 @@
+import{b as t}from"./baseRequest.acdd10d1.js";import"./todo.9d8ad3e1.js";import"./index.becf6c0c.js";const s=(s={})=>t.get("/stat/engine",{params:s}),e=(s={})=>t.post("/stat/userHm",s);export{e as statUserAnalyseApi,s as useStatisticsApi};

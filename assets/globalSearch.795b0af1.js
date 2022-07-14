@@ -1,0 +1,1 @@
+import{k as e,aY as t,al as o,bB as a}from"./todo.9d8ad3e1.js";const s=e(!1);t(s,(e=>{o((()=>{if(e){let e=document.querySelector("#keywordInput");e&&e.focus()}else document.querySelector(".se-input").focus()}))})),document.addEventListener("keydown",(e=>{let t=e.ctrlKey;a()&&(t=e.metaKey),!e.shiftKey&&t&&"f"===e.key&&(e.preventDefault(),s.value=!s.value)}),!1);export{s as g};

@@ -1,0 +1,1 @@
+import{b as a}from"./baseRequest.acdd10d1.js";import"./todo.9d8ad3e1.js";import"./index.becf6c0c.js";const e=(e={})=>a.get("/yiyan/info",{params:e}),s=(e={})=>a.get("/yiyan/like",{params:e}),t=(e={})=>a.get("/yiyan/share",{params:e});export{e as yiyanInfoApi,s as yiyanLikeApi,t as yiyanShareApi};

@@ -1,59 +1,67 @@
-<!--
- * @Author: Tsuki
- * @LastEditTime: 2022-05-10 14:25:53
+
+  <!--
+ * @Author: itap.tsuki.icu
+ * @Date: 2021-12-14 13:18:21
+ * @LastEditors: itap.tsuki.icu
+ * @LastEditTime: 2022-07-08 09:57:06
  * @Description: file content
 -->
 
-<!DOCTYPE html>
-<html style="height: 100%; overflow: hidden;" lang="zh" class="dark">
+  <!DOCTYPE html>
+  <html style="height: 100%; overflow: hidden;" lang="zh" class="dark">
 
-<head>
-  <title>Tsuki导航页</title>
-  <meta name="keywords" content="创建和编辑属于您自己的浏览器标签页,精美日历、炫酷天气、每日头条、海量壁纸、常用网址随心订制">
-  <meta name="description" content="自定义您导航页上的网站和壁纸以及搜索引擎,创建和编辑属于您自己的浏览器标签页,精美日历、炫酷天气、每日头条、海量壁纸、常用网址随心订制">
-  <meta charset="utf-8">
-  <meta name="renderer" content="webkit">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name=viewport content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no"/>
-  <meta http-equiv="Content-Security-Policy" content="script-src 'self'; object-src 'self'">
-  <link rel="icon" type="image/ico" href="https://p0.meituan.net/csc/bf3dfd1502031920e34a7d6b726aea61903576.png">
-  <link rel="apple-touch-icon" href="logo/logo.svg">
-  <link rel="mask-icon" href="logo/logo.svg" color="#00aba9">
-  <script type="module" crossorigin src="./assets/main.5f87c81f.js"></script>
-  <link rel="modulepreload" href="./assets/save_config.7e387697.js">
-  <link rel="stylesheet" href="./assets/save_config.849732b8.css">
-  <link rel="stylesheet" href="./assets/main.53f545e2.css">
-</head>
-<style>
-@media (prefers-color-scheme: dark) {
-  body{
+  <head>
+    <title>新标签页</title>
+    <meta name="keywords" content="创建和编辑属于您自己的浏览器标签页,精美日历、炫酷天气、每日头条、海量壁纸、常用网址随心订制">
+    <meta name="description" content="自定义您新标签页上的网站和壁纸以及搜索引擎,创建和编辑属于您自己的浏览器标签页,精美日历、炫酷天气、每日头条、海量壁纸、常用网址随心订制">
+    <meta charset="utf-8">
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name=viewport content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+    <meta http-equiv="Content-Security-Policy" content="script-src 'self'; object-src 'self'">
+    <link rel="icon" href="favicon.ico" />
+    <link rel="apple-touch-icon" href="logo/logo.svg">
+    <link rel="mask-icon" href="logo/logo.svg" color="#00aba9">
+    <script type="module" crossorigin src="./assets/main.bc43ff04.js"></script>
+    <link rel="modulepreload" href="./assets/todo.9d8ad3e1.js">
+    <link rel="stylesheet" href="./assets/todo.a2cec06c.css">
+    <link rel="stylesheet" href="./assets/main.a74f2663.css">
+  </head>
+  <style>
+  @media (prefers-color-scheme: dark) {
+    body {
       background-color: #35363a;
     }
-  } 
-  #app{
-    width:100%; height:100%;
+  }
+  
+  #app {
+    width: 100%;
+    height: 100%;
     position: relative;
   }
-  .body-bg{
+  
+  .body-bg {
     position: absolute;
     z-index: 0;
     width: 100%;
-    height: 100%; background-size:cover;
-    background-position:center;
-    background-repeat:no-repeat;
-    margin:0;
-    padding:0;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
   }
-</style>
-<body style="position: relative;height: 100%; margin:0;padding: 0;">
+  </style>
 
-  <script  src="./js/init.js"></script>
-  <div id="app" ></div>
+  <body style="position: relative;height: 100%; margin:0;padding: 0;">
 
-  
-</body>
+    <script src="./js/init.js"></script>
+    <div id="app"></div>
+    
+    <!-- <itab-wallpaper /> -->
+  </body>
 
+  <script defer="defer" src="./js/iconfont.js"></script>
+  <link rel="stylesheet" href="./webfont/index.css">
 
-<script defer="defer"  src="./js/iconfont.js"></script>
-<link rel="stylesheet" href="./webfont/index.css">
-</html>
+  </html>

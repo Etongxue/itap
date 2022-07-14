@@ -1,0 +1,1 @@
+import{aY as e,x as r,af as a,Q as o}from"./todo.9d8ad3e1.js";const t=({from:a,replacement:o,scope:t,version:s,ref:n,type:i="API"},m)=>{e((()=>r(m)),(e=>{}),{immediate:!0})},s={prefix:Math.floor(1e4*Math.random()),current:0},n=Symbol("elIdInjection"),i=e=>{const t=a(n,s);return o((()=>r(e)||`el-id-${t.prefix}-${t.current++}`))};export{t as a,i as u};

@@ -1,10 +1,13 @@
 /*
- * @Author: www.itab.link
+ * @Author: itap.tsuki.icu
  * @Date: 2022-01-07 22:32:28
- * @LastEditors: itab.link
- * @LastEditTime: 2022-03-07 14:43:15
+ * @LastEditors: itap.tsuki.icu
+ * @LastEditTime: 2022-06-07 21:28:01
  * @Description: file content
  */
+
+// TODO
+
 const baseConfig = JSON.parse(localStorage.getItem("baseConfig") || '{}')
 const wallpaper = baseConfig.wallpaper || {}
 if (wallpaper.type == 0 || wallpaper.type == 1 || wallpaper.type == 2) {

@@ -1,0 +1,1 @@
+import{b as e}from"./index.6fb72867.js";import{k as n,Q as a}from"./todo.9d8ad3e1.js";const t=n(0),o=()=>{const n=e("zIndex",2e3),o=a((()=>n.value+t.value));return{initialZIndex:n,currentZIndex:o,nextZIndex:()=>(t.value++,o.value)}};export{o as u};

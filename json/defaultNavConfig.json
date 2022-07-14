@@ -26,6 +26,34 @@
                 "id": "gSZZkzSIL"
             },
             {
+                "id": "Mh9M0gUXe6N-TjKfMaGx_",
+                "url": "https://ai.taobao.com?pid=mm_54561194_2536750027_111828300388&union_lens=lensId:PUB@1644727921@21057ef3_09a7_17ef16c69e2_05aa@01",
+                "type": "icon",
+                "name": "爱淘宝",
+                "src": "https://files.codelife.cc/website/taobao.svg"
+            },
+            {
+                "id": "5yEZm2kln",
+                "url": "https://jd.com",
+                "type": "icon",
+                "name": "京东商城",
+                "src": "https://files.codelife.cc/website/jd.svg"
+            },
+            {
+                "id": "5a94d582e753876b29cffb95",
+                "type": "icon",
+                "url": "https://www.tmall.com/",
+                "name": "天猫精选",
+                "src": "https://files.codelife.cc/website/tmall.svg"
+            },
+            {
+                "id": "duzYKi8wvsmT4JMmGOEtG",
+                "name": "FlowUs",
+                "src": "https://files.codelife.cc/website/flowus.svg",
+                "type": "icon",
+                "url": "https://flowus.cn/?promotionChannel=WZ_it_01"
+            },
+            {
                 "name": "倒数日",
                 "component": "daysMatter",
                 "type": "component",
@@ -112,6 +140,20 @@
                 "id": "fu2M-S9yd"
             },
             {
+                "name": "书签管理",
+                "type": "component",
+                "component": "bookmarks",
+                "size": "mini",
+                "id": "ABlIiKONc4F1acq3FZU-S"
+            },
+            {
+                "id": "glN0dLcwF",
+                "url": "https://www.baidu.com/?tn=68018901_2_oem_dg",
+                "type": "icon",
+                "name": "百度",
+                "src": "https://files.codelife.cc/website/baidu.svg"
+            },
+            {
                 "id": "vwLnQvDMr",
                 "url": "http://www.bilibili.com/",
                 "type": "icon",
@@ -148,7 +190,7 @@
             },
             {
                 "id": "P7zvl_hxm",
-                "url": "http://music.163.com/?from=itab",
+                "url": "https://music.163.com/?from=itab",
                 "type": "icon",
                 "name": "网易云音乐",
                 "src": "https://files.codelife.cc/website/music163.svg"
@@ -161,25 +203,25 @@
                 "src": "https://files.codelife.cc/website/qqmusic.svg"
             },
             {
-                "id": "5kGk9TzkRam",
-                "url": "https://datayi.cn/w/xo0Q1v09",
-                "type": "icon",
-                "name": "奶牛快传",
-                "src": "https://files.codelife.cc/website/cowtransfer.svg"
-            },
-            {
                 "id": "5kGk9TzkRam-a",
-                "url": "https://imyshare.com/",
+                "url": "https://js.design?source=itab&plan=1",
                 "type": "icon",
-                "name": "imyshare",
+                "name": "即时设计",
                 "src": "https://files.codelife.cc/website/jsdesign.svg"
             },
             {
                 "id": "-GlRzTMT11",
-                "url": "https://tsuki.icu",
+                "url": "https://itap.tsuki.icu",
                 "type": "icon",
-                "name": "HOME",
+                "name": "iTab新标签页",
                 "src": "https://files.codelife.cc/website/itab.svg"
+            },
+            {
+                "id": "k67HgbHCCHn_wvZBHbYR-",
+                "url": "chrome://history/",
+                "type": "icon",
+                "name": "历史记录",
+                "src": "https://files.codelife.cc/website/history.svg"
             },
             {
                 "id": "GTIzQ7fHwS501SWtM_8H_",
@@ -194,6 +236,13 @@
                 "type": "icon",
                 "name": "添加图标",
                 "src": "https://files.codelife.cc/website/add.svg"
+            },
+            {
+                "id": "0g75JmsYHHPQlYhpKxsBD",
+                "url": "chrome://extensions/",
+                "type": "icon",
+                "name": "扩展管理",
+                "src": "https://files.codelife.cc/website/extensions.svg"
             }
         ]
     },
@@ -294,10 +343,10 @@
             },
             {
                 "id": "xLiON51K5",
-                "url": "https://www.openzui.com/",
+                "url": "https://www.apifox.cn/a1itablink",
                 "type": "icon",
-                "name": "ZUI",
-                "src": "https://files.codelife.cc/website/5af7a912fb674834c29a1f66.png"
+                "name": "Apifox",
+                "src": "https://files.codelife.cc/website/apifoxcn.svg"
             },
             {
                 "id": "hR3qSSHN1",
@@ -455,6 +504,13 @@
         "icon": "app",
         "children": [
             {
+                "id": "5kGk9TzkRam-a",
+                "url": "https://js.design/square?sort=downloadNum&source=itab&plan=4",
+                "type": "icon",
+                "name": "即时设计",
+                "src": "https://files.codelife.cc/website/jsdesign.svg"
+            },
+            {
                 "id": "v_xMvU7V_",
                 "url": "http://huaban.com/",
                 "type": "icon",
@@ -462,15 +518,8 @@
                 "src": "https://files.codelife.cc/website/huaban.svg"
             },
             {
-                "id": "5kGk9TzkRam-a",
-                "url": "https://js.design?source=itab&plan=3",
-                "type": "icon",
-                "name": "即时设计",
-                "src": "https://files.codelife.cc/website/jsdesign.svg"
-            },
-            {
                 "id": "raBGdwOvo",
-                "url": "http://www.zcool.com.cn",
+                "url": "https://www.zcool.com.cn/",
                 "type": "icon",
                 "name": "站酷",
                 "src": "https://files.codelife.cc/website/zcool.svg"
@@ -543,7 +592,7 @@
                 "url": "http://www.nipic.com/index.html",
                 "type": "icon",
                 "name": "昵图网",
-                "src": "https://files.codelife.cc/website/595a178e703e23483da8769e.png"
+                "src": "https://files.codelife.cc/website/nipic.svg"
             },
             {
                 "id": "9Ovk3e--_",
@@ -603,7 +652,7 @@
             },
             {
                 "id": "1kOQpIeGB",
-                "url": "http://90sheji.com/",
+                "url": "https://90sheji.com/",
                 "type": "icon",
                 "name": "90设计网，电商设计模板 PNG素材 背景图免费下载网站",
                 "src": "https://files.codelife.cc/website/5b97818753aef51fa149f181.png"
@@ -668,8 +717,8 @@
                 "id": "UYFPubzZ-",
                 "url": "https://colorhub.me",
                 "type": "icon",
-                "name": "无版权图",
-                "src": "https://files.codelife.cc/website/5b5920d2e7be2e1804a3dd28.png"
+                "name": "Colorhub",
+                "src": "https://files.codelife.cc/website/colorhub.svg"
             },
             {
                 "id": "3NjEiwNGO",
@@ -691,13 +740,6 @@
                 "type": "icon",
                 "name": "致设计",
                 "src": "https://files.codelife.cc/website/zhisheji.svg"
-            },
-            {
-                "id": "LSIRHd3Xg",
-                "url": "http://699pic.com/best.html",
-                "type": "icon",
-                "name": "摄图网",
-                "src": "https://files.codelife.cc/website/5a5eac37a7fee11269998c70.png"
             },
             {
                 "id": "LUmS6AGeA",
@@ -731,14 +773,7 @@
                 "url": "http://www.woshipm.com/",
                 "type": "icon",
                 "name": "人人都是产品经理",
-                "src": "https://files.codelife.cc/website/5aabf1b67b072b4fee37bd3e.png"
-            },
-            {
-                "id": "n7UC9cJna",
-                "url": "https://modao.cc/workspace/apps",
-                "type": "icon",
-                "name": "墨刀",
-                "src": "https://files.codelife.cc/website/5a0262b325dd58586714c2a5.png"
+                "src": "https://files.codelife.cc/website/woshipm.svg"
             },
             {
                 "id": "vqZCrDh6zad",
@@ -762,22 +797,15 @@
                 "src": "https://files.codelife.cc/website/utools.svg"
             },
             {
-                "id": "5n2SfL-Kv",
-                "url": "https://lanhuapp.com",
-                "type": "icon",
-                "name": "蓝湖",
-                "src": "https://files.codelife.cc/website/lanhuapp.svg"
-            },
-            {
                 "id": "JMlVT1wsC",
                 "url": "https://www.dida365.com/",
                 "type": "icon",
                 "name": "滴答清单",
-                "src": "https://files.codelife.cc/website/595a178e703e23483da876f3.png"
+                "src": "https://files.codelife.cc/website/dida365.svg"
             },
             {
                 "id": "5kGk9TzkRaa",
-                "url": "https://boardos.online?from=itab.link",
+                "url": "https://boardos.online?from=itap.tsuki.icu",
                 "type": "icon",
                 "name": "BoardOS",
                 "src": "https://files.codelife.cc/website/boardos.svg"
@@ -794,21 +822,14 @@
                 "url": "https://www.teambition.com/projects",
                 "type": "icon",
                 "name": "Teambition",
-                "src": "https://files.codelife.cc/website/595a178e703e23483da875e7.png"
-            },
-            {
-                "id": "riGCzyrjg",
-                "url": "https://www.qimai.cn/",
-                "type": "icon",
-                "name": "七麦数据",
-                "src": "https://files.codelife.cc/website/5b68226c18cf186378cf7f57.png"
+                "src": "https://files.codelife.cc/website/teambition.svg"
             },
             {
                 "id": "NxcUMe4w5",
                 "url": "https://www.iconfont.cn/",
                 "type": "icon",
                 "name": "Iconfont",
-                "src": "https://files.codelife.cc/website/5c208726bff15474e7a47567.png"
+                "src": "https://files.codelife.cc/website/iconfont.svg"
             },
             {
                 "id": "HXATd_798",
@@ -822,7 +843,7 @@
                 "url": "http://www.processon.com",
                 "type": "icon",
                 "name": "ProcessOn",
-                "src": "https://files.codelife.cc/website/595a178e703e23483da87724.png"
+                "src": "https://files.codelife.cc/website/processon.svg"
             },
             {
                 "id": "keiA5_XQv",
@@ -843,7 +864,7 @@
                 "url": "http://www.pmcaff.com/",
                 "type": "icon",
                 "name": "PMCAFF",
-                "src": "https://files.codelife.cc/website/59ba193a9949a103507926b0.png"
+                "src": "https://files.codelife.cc/website/pmcaff.svg"
             },
             {
                 "id": "5kGk9TzkRa",
@@ -920,14 +941,14 @@
                 "url": "https://maimai.cn/feed_list",
                 "type": "icon",
                 "name": "脉脉",
-                "src": "https://files.codelife.cc/website/5b948d3074e4201f841de625.png"
+                "src": "https://files.codelife.cc/website/maimai.svg"
             },
             {
                 "id": "VqqNHgaf-",
                 "url": "https://store.steampowered.com/",
                 "type": "icon",
                 "name": "Steam",
-                "src": "https://files.codelife.cc/website/5df19c4b3c4366058063c9a3.png"
+                "src": "https://files.codelife.cc/website/steam.svg"
             },
             {
                 "id": "-Q8KQDvzf",
@@ -948,7 +969,7 @@
                 "url": "https://web.okjike.com",
                 "type": "icon",
                 "name": "即刻网页版",
-                "src": "https://files.codelife.cc/website/5c175b96b2a37723683096d9.png"
+                "src": "https://files.codelife.cc/website/okjike.svg"
             },
             {
                 "id": "2ykpQ4jnS",
@@ -959,10 +980,10 @@
             },
             {
                 "id": "CSGfty1NQ",
-                "url": "http://www.4399.com/",
+                "url": "https://www.4399.com/",
                 "type": "icon",
                 "name": "4399小游戏",
-                "src": "https://files.codelife.cc/website/5ab44e5c57dd002aca3d15a5.png"
+                "src": "https://files.codelife.cc/website/4399.svg"
             },
             {
                 "id": "Ar6V8x5ep",
@@ -994,10 +1015,10 @@
             },
             {
                 "id": "E73yZrjb-",
-                "url": "https://www.x23qb.com/",
+                "url": "https://fanqienovel.com/",
                 "type": "icon",
-                "name": "铅笔小说",
-                "src": "https://files.codelife.cc/website/5fc0643e8af9860fb41a9b74.png"
+                "name": "番茄小说网",
+                "src": "https://files.codelife.cc/website/fanqienovel.svg"
             },
             {
                 "id": "Xwvd40Z80",
@@ -1010,7 +1031,7 @@
                 "id": "P9JTzK_tG",
                 "url": "http://www.tadu.com/",
                 "type": "icon",
-                "name": " 塔读文学",
+                "name": "塔读文学",
                 "src": "https://files.codelife.cc/website/5a71d72f80a6e06b12dc5ec4.png"
             },
             {
@@ -1018,7 +1039,7 @@
                 "url": "http://jandan.net/",
                 "type": "icon",
                 "name": "煎蛋",
-                "src": "https://files.codelife.cc/website/595a178e703e23483da871ce.png"
+                "src": "https://files.codelife.cc/website/jandan.svg"
             },
             {
                 "id": "oTRgyT2MF",
@@ -1042,6 +1063,13 @@
                 "src": "https://files.codelife.cc/website/59bb40029e231b47a9d7df41.png"
             },
             {
+                "id": "2XsmbJ7ih-a",
+                "url": "https://shenmezhidedu.com/?from=itab",
+                "type": "icon",
+                "name": "什么值得读",
+                "src": "https://files.codelife.cc/website/5eb3ccd37e261c1f0b4e6b3a.png"
+            },
+            {
                 "id": "o_rkyPiBR",
                 "url": "http://www.mop.com/",
                 "type": "icon",
@@ -1053,18 +1081,18 @@
                 "url": "https://www.qidian.com/rank",
                 "type": "icon",
                 "name": "起点中文网",
-                "src": "https://files.codelife.cc/website/5bdea94b2c829e619e386233.png"
+                "src": "https://files.codelife.cc/website/qidian.svg"
             },
             {
                 "id": "hbPSc5kFD",
-                "url": "https://www.67tool.com/",
+                "url": "https://www.67tool.com/?from=itap.tsuki.icu",
                 "type": "icon",
                 "name": "即时工具",
                 "src": "https://files.codelife.cc/website/67tool.svg"
             },
             {
                 "id": "IC2ssYXhT",
-                "url": "http://www.smzdm.com/?from=itab.link",
+                "url": "http://www.smzdm.com/?from=itap.tsuki.icu",
                 "type": "icon",
                 "name": "什么值得买",
                 "src": "https://files.codelife.cc/website/smzdm.svg"
@@ -1074,14 +1102,14 @@
                 "url": "https://weread.qq.com/",
                 "type": "icon",
                 "name": "微信读书",
-                "src": "https://files.codelife.cc/website/5ddc9bd23c4366058063c8f2.png"
+                "src": "https://files.codelife.cc/website/weread-qq.svg"
             },
             {
                 "id": "OoRXhT5Wz",
                 "url": "http://www.tianya.cn",
                 "type": "icon",
                 "name": "天涯",
-                "src": "https://files.codelife.cc/website/595a178e703e23483da871bb.png"
+                "src": "https://files.codelife.cc/website/tianyacn.svg"
             },
             {
                 "id": "Pe_KZlfrP",
@@ -1098,11 +1126,18 @@
                 "src": "https://files.codelife.cc/website/ghxi.svg"
             },
             {
-                "id": "7nueMEBmtUh-BHadcJQYK",
-                "url": "https://zhuijugou.com/",
+                "id": "itab_toonme",
+                "url": "https://toonme.com/",
                 "type": "icon",
-                "name": "追剧狗",
-                "src": "https://files.codelife.cc/website/zhuijugou.svg"
+                "name": "漫画生成",
+                "src": "https://files.codelife.cc/website/toonme.png"
+            },
+            {
+                "id": "K",
+                "url": "https://tikolu.net/emojimix/",
+                "type": "icon",
+                "name": "emoji合成",
+                "src": "https://files.codelife.cc/website/59f723c85138415abdea365b.png"
             }
         ],
         "id": "nav_WjjuUHrlw"
